@@ -62,17 +62,6 @@ import lombok.Data;
 			this.transactionAmount = transactionAmount;
 		}
 
-		
-		
-		
-		
-
-		
-
-		
-
-		
-
 	   
 	}
 
